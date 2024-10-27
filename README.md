@@ -1,2 +1,2 @@
 # academic_project
-Smart Voting System with Fingerprint and OTP Authentication
+Smart Voting System with Fingerprint and OTP Authentication Arduino Code
